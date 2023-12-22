@@ -1,4 +1,4 @@
-# Bitcoin, Web3, me and Nostr
+# Bitcoin, Web3, I and Nostr
 The first draft of this text was published on [Yakihonne](https://yakihonne.com/article/naddr1qq2hgdfe09a9v3nhvae5jaz8v56yjepkvdm4yq3qm78s5eqv8l7snc5nnxdvlgue6pt5epgplndtem99quhwyptas7jsxpqqqp65w5c0e84) in Japanese.
 
 ## At the begining
