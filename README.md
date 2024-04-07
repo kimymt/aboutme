@@ -16,16 +16,8 @@ NIP-5 address: likemike@nostrplebs.com
 
 URL: https://nostter.app/likemike@nostrplebs.com
 
-## SimpleX
-Shorten invitation link: https://w3.do/cUw4DqH8
-
-![qrcode](/img/simplex_address.jpg)
-
-## Discord
-URL: https://discord.com/users/701379379678150746
-
 ## X (formerly Twitter)
 Deleted
 
 ## Facebook, Instagram, Telegram and so on...
-Rarely used. Please contact me using the above.
+Rarely used.
