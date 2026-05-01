@@ -1,16 +1,16 @@
 # What I've done
-## Github
+## GitHub
 Please see my activity.
 
 ## In real life
-Not available. I'm not an engineer, just to be sure.
+Not currently available. I'm not a professional engineer.
 
 # Somewhere I belong
 ## Nostr
-Paused using.
+Currently paused.
 
 ## X (formerly Twitter)
-Deleted
+Account deleted.
 
-## Facebook, Instagram, Telegram and so on...
+## Facebook, Instagram, Telegram, etc.
 Rarely used.
