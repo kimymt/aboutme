@@ -16,5 +16,7 @@ Currently paused.
 ### X (formerly Twitter)
 Account deleted.
 
-### Facebook, Instagram, Telegram, etc.
-Rarely used.
+### Facebook, Instagram, Telegram, Linkedin, etc.
+Hardly use these platforms anymore. I’ve lost interest in social media because I can't stand being at the mercy of recommendation algorithms.
+However, I have to keep my accounts active for occasional work-related messages.
+Network effects suck. Thanks a lot, capitalism.
